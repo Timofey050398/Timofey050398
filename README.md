@@ -37,5 +37,5 @@
 ---
 <h3 align="center"><b>TELEGRAM</b></h3>
 <p align="center">
-  <a href="https://t.me/ltimofeyd"><img width="6%" title="Allure TestOps" src="media/logo/Telegram.svg"/></a>
+  <a href="https://t.me/ltimofeyd"><img width="6%" title="Telegram" src="media/logo/Telegram.svg"/></a>
 </p>
