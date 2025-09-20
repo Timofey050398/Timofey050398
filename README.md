@@ -34,6 +34,7 @@
 
 ---
 (2025г.) Мой проект по разработке сервиса с микросервисной архитектурой, интеграцией с Kafka и автоматизации тестирования  **[ROCOCO](https://github.com/Timofey050398/rococo)**   
+
 ---
 <h3 align="center"><b>TELEGRAM</b></h3>
 <p align="center">
