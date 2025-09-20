@@ -34,3 +34,6 @@
 
 ---
 (2025г.) Мой проект по разработке сервиса с микросервисной архитектурой, интеграцией с Kafka. и автоматизации тестирования  **[ROCOCO](https://github.com/Timofey050398/rococo)**   
+---
+**TELEGRAM**
+  <a href="https://t.me/ltimofeyd"><img width="6%" title="Allure TestOps" src="media/logo/Telegram.svg"/></a>
