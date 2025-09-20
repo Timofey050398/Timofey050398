@@ -13,6 +13,7 @@
   <a href="https://kafka.apache.org/"><img width="4%" title="Apache Kafka" src="media/logo/kafka.svg"/></a>
   <a href="https://www.docker.com/"><img width="6%" title="Docker" src="media/logo/docker.svg"/></a>
   <a href="https://www.mysql.com/"><img width="5%" title="MySQL" src="media/logo/mysql.svg"/></a>
+  <a href="https://www.postgresql.org/"><img width="5%" title="Postgresql" src="media/logo/postgresql.svg"/></a>
   <a href="https://svelte.dev/"><img width="5%" title="Svelte" src="media/logo/svelte.svg"/></a>
   <a href="https://junit.org/junit5/"><img width="5%" title="JUnit 5" src="media/logo/JUnit5.svg"/></a>
   <a href="https://rest-assured.io"><img width="6%" title="REST-Assured" src="media/logo/rest_assured.svg"/></a>
@@ -26,7 +27,7 @@
   <a href="https://www.jenkins.io/"><img width="6%" title="Jenkins" src="media/logo/Jenkins.svg"/></a>
   <a href="https://app-automate.browserstack.com/"><img width="6%" title="BrowserStack" src="media/logo/Browserstack.svg"/></a>
   <a href="https://developer.android.com/studio"><img width="6%" title="Android Studio" src="media/logo/Android_Studio.svg"/></a>
-  <a href="https://appium.io"><img width="6%" title="Appium" src="media/logo/Appium.svg"/></a>
+  <a href="https://postman.com"><img width="6%" title="Postman" src="media/logo/postman.svg"/></a>
   <a href="https://www.atlassian.com/software/jira"><img width="6%" title="Jira" src="media/logo/Jira.svg"/></a>
   <a href="https://qameta.io"><img width="6%" title="Allure TestOps" src="media/logo/Allure_TO.svg"/></a>
 </p>
